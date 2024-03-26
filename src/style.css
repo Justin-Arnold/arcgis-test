@@ -1,0 +1,14 @@
+#viewDiv {
+  height: 100vh;
+  width: 100vw;
+}
+
+#legend {
+  position: fixed;
+  top: 8px;
+  left: 8px;
+  background-color: rgb(255, 248, 239);
+  z-index: 100; 
+  border: 1px solid black;
+  padding: 4px;
+}
